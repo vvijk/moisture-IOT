@@ -22,26 +22,29 @@ The Raspberry Pi Pico WH is a microcontroller board based on the RP2040 chip.
 It has a dual-core ARM Cortex-M0+ processor.
 The Pico WH variant includes pre-soldered headers, making it convenient for a breadboard-based project like this.
 It can be programmed using MicroPython, C/C++, or other compatible programming languages.
-https://github.com/vvijk/Soil-Guardian-3000/blob/main/pictures/PICO-WH.jpg
 <img src="https://github.com/vvijk/Soil-Guardian-3000/blob/main/pictures/PICO-WH.jpg" width="385px">
 
 #### Bread board
-
 A breadboard is a versatile prototyping tool used for building and testing electronic circuits.
 It consists of a grid of holes into which electronic components can be inserted and interconnected without the need for soldering.
 The breadboard is used as a platform to connect the Raspberry Pi Pico and the sensors using jumper wires.
+<img src="https://github.com/vvijk/Soil-Guardian-3000/blob/main/pictures/breadboard.jpg" width="385px">
 
 #### DHT-11 sensor
 The DHT-11 sensor is a low-cost sensor that measures temperature and humidity. The sensor operates within a specific temperature and humidity range and does reasonable accuracy for most general-purpose applications.
+<img src="https://github.com/vvijk/Soil-Guardian-3000/blob/main/pictures/dht-11.jpg" width="385px">
 
 #### Capcitive Soil Moisture Sensor
 The capacitive soil moisture sensor is a sensor specifically designed to measure the moisture content of soil.
+<img src="https://github.com/vvijk/Soil-Guardian-3000/blob/main/pictures/capsensor.jpg" width="385px">
 
 #### Jumper wires
 Jumper wires are used to establish electrical connections between different components on a breadboard or between the breadboard and other devices.
+<img src="https://github.com/vvijk/Soil-Guardian-3000/blob/main/pictures/wires.jpg" width="385px">
 
 #### Micro USB cable
 A Micro USB cable is used to provide power to the Raspberry Pi Pico and establish a data connection for programming.
+<img src="https://github.com/vvijk/Soil-Guardian-3000/blob/main/pictures/microUSB.jpg" width="385px">
 
 ## Computer setup
 This tutorial is for Windows but is pretty similar on other operating systems. 
@@ -56,13 +59,9 @@ This tutorial is for Windows but is pretty similar on other operating systems.
 * Step 4: In your file system you will see a new drive called **RPI-RP2** which is your RPi Pico device. Paste the **uf2** file you previously downloaded and add it to the device. The Raspberry Pi Pico will automatically disconnect from your computer and reconnect. Now your RPi Pico is flashed with Micropython and ready to go.
 
 ## Putting everything together
-
 - Start with connecting the Pico and the sensors to the breadboard then connect all the wires. (You can do this however you want but make sure you are connecting everything as it should) Here is a circuit diagram on how i did it:
 (insert pic of circuit wiring)
 
-#### Do i need this?
--  Open up VS Code and connect your Raspberry Pi Pico to the computer. You should see it poping up in the PyMakr extension on the left side.
-- Upload the code to the Raspberry Pi.
 
 ## The Code
 The project's code consists of four Python files. You can either use the ```git pull``` command to fetch the files or manually copy them from this directory and paste them into your IDE. Here is a brief overview of what each file contains:
