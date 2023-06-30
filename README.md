@@ -43,7 +43,7 @@ This tutorial is for Windows but is pretty similar on other operating systems.
 * Step 1: Download and install Node js [HERE](https://nodejs.org/en)
 * Step 2: Download and install VS Code [HERE](https://code.visualstudio.com/Download)
 * Step 3: Open VS Code and go to the extensions manager. Search for the **Pymakr** plugin and install it. (see image for steps)
-<img src="https://github.com/vvijk/Soil-Guardian-3000/blob/main/pictures/pymakr.pngg" width="450px">
+<img src="https://github.com/vvijk/Soil-Guardian-3000/blob/main/pictures/pymakr.png" width="450px">
 
 ## Pico setup
 * Step 1: Download the **Micropython** firmware [HERE](https://micropython.org/download/rp2-pico-w/). Make sure to download the lates **uf2** file under releases. (lägg in bild)
@@ -52,8 +52,8 @@ This tutorial is for Windows but is pretty similar on other operating systems.
 * Step 4: In your file system you will see a new drive called **RPI-RP2** which is your RPi Pico device. Paste the **uf2** file you previously downloaded and add it to the device. The Raspberry Pi Pico will automatically disconnect from your computer and reconnect. Now your RPi Pico is flashed with Micropython and ready to go.
 
 ## Putting everything together
-Start with connecting the Pico and the sensors to the breadboard then connect all the wires. (You can do this however you want but make sure you are connecting everything as it should) Here is a circuit diagram on how i did it: <img src="https://github.com/vvijk/Soil-Guardian-3000/blob/main/pictures/circut_soil3000.png" width="385px" align="left">
-<br>
+Start with connecting the Pico and the sensors to the breadboard then connect all the wires. (You can do this however you want but make sure you are connecting everything as it should) Here is a circuit diagram on how i did it:
+<br><img src="https://github.com/vvijk/Soil-Guardian-3000/blob/main/pictures/circut_soil3000.png" width="385px" align="left"><br>
 
 ## The Code
 The project's code consists of four Python files. You can either use the ```git pull``` command to fetch the files or manually copy them from this directory and paste them into your IDE. Here is a brief overview of what each file contains:
