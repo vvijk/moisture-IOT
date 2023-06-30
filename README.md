@@ -23,7 +23,7 @@ It has a dual-core ARM Cortex-M0+ processor.
 The Pico WH variant includes pre-soldered headers, making it convenient for a breadboard-based project like this.
 It can be programmed using MicroPython, C/C++, or other compatible programming languages.
 https://github.com/vvijk/Soil-Guardian-3000/blob/main/pictures/PICO-WH.jpg
-![RPI Pico WH](https://github.com/vvijk/Soil-Guardian-3000/blob/main/pictures/PICO-WH.jpg | width=200) 
+<img src="https://github.com/vvijk/Soil-Guardian-3000/blob/main/pictures/PICO-WH.jpg" width="385px">
 
 #### Bread board
 
