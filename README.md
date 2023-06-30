@@ -52,10 +52,10 @@ This tutorial is for Windows but is pretty similar on other operating systems.
 
 ## Putting everything together
 Start with connecting the Pico and the sensors to the breadboard then connect all the wires. (You can do this however you want but make sure you are connecting everything as it should) Here is a circuit diagram on how i did it: <img src="https://github.com/vvijk/Soil-Guardian-3000/blob/main/pictures/circut_soil3000.png" width="385px" align="left">
+<br>
 
 ## The Code
 The project's code consists of four Python files. You can either use the ```git pull``` command to fetch the files or manually copy them from this directory and paste them into your IDE. Here is a brief overview of what each file contains:
-
 * **boot.py** This is where the pico connects to WiFi. It start with importing your WiFi credentials from the **keys.py** file and then continues to set up a connection to your WiFi.
 * **keys.py** This file holds all your crucial credentials.
 ```python
