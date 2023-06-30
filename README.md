@@ -43,6 +43,7 @@ This tutorial is for Windows but is pretty similar on other operating systems.
 * Step 1: Download and install Node js [HERE](https://nodejs.org/en)
 * Step 2: Download and install VS Code [HERE](https://code.visualstudio.com/Download)
 * Step 3: Open VS Code and go to the extensions manager. Search for the **Pymakr** plugin and install it. (see image for steps)
+<img src="https://github.com/vvijk/Soil-Guardian-3000/blob/main/pictures/pymakr.pngg" width="450px">
 
 ## Pico setup
 * Step 1: Download the **Micropython** firmware [HERE](https://micropython.org/download/rp2-pico-w/). Make sure to download the lates **uf2** file under releases. (lägg in bild)
