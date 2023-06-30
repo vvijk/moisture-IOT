@@ -28,10 +28,12 @@ A breadboard is a versatile prototyping tool used for building and testing elect
 The DHT-11 sensor is a low-cost sensor that measures temperature and humidity. The sensor operates within a specific temperature and humidity range and does reasonable accuracy for most general-purpose applications. <img src="https://github.com/vvijk/Soil-Guardian-3000/blob/main/pictures/dht-11.jpg" width="385px" >
 
 #### Capcitive Soil Moisture Sensor
-The capacitive soil moisture sensor is a sensor specifically designed to measure the moisture content of soil. <img src="https://github.com/vvijk/Soil-Guardian-3000/blob/main/pictures/capsensor.jpg" width="385px">
+The capacitive soil moisture sensor is a sensor specifically designed to measure the moisture content of soil. 
+<img src="https://github.com/vvijk/Soil-Guardian-3000/blob/main/pictures/capsensor.jpg" width="385px">
 
 #### Jumper wires
-Jumper wires are used to establish electrical connections between different components on a breadboard or between the breadboard and other devices. <img src="https://github.com/vvijk/Soil-Guardian-3000/blob/main/pictures/wires.jpg" width="385px">
+Jumper wires are used to establish electrical connections between different components on a breadboard or between the breadboard and other devices. 
+<img src="https://github.com/vvijk/Soil-Guardian-3000/blob/main/pictures/wires.jpg" width="385px">
 
 #### Micro USB cable
 A Micro USB cable is used to provide power to the Raspberry Pi Pico and establish a data connection for programming. <img src="https://github.com/vvijk/Soil-Guardian-3000/blob/main/pictures/microUSB.jpg" width="385px">
@@ -95,7 +97,7 @@ moist_dry=42986
 
 ## Presenting the data
 In terms of presenting the data I've choosen three line grafs with an matching gauge. The temperature has two limits, 21C and 26C. In between that is shown in green as an OK temperature. If the temperature goes above that it changes to red to indicate that its too hot and if it's going below 21 it turns blue to indicate that its to cold.
-<img src="https://github.com/vvijk/Soil-Guardian-3000/blob/main/pictures/temp.png" width="600px"> <img src="https://github.com/vvijk/Soil-Guardian-3000/blob/main/pictures/high_temp.png.jpg" width="600px">
+<img src="https://github.com/vvijk/Soil-Guardian-3000/blob/main/pictures/temp.png" width="600px"> <img src="https://github.com/vvijk/Soil-Guardian-3000/blob/main/pictures/high_temp.png" width="600px">
 
 
 ## Finalizing the design
