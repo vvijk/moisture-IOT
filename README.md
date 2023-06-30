@@ -51,8 +51,7 @@ This tutorial is for Windows but is pretty similar on other operating systems.
 * Step 4: In your file system you will see a new drive called **RPI-RP2** which is your RPi Pico device. Paste the **uf2** file you previously downloaded and add it to the device. The Raspberry Pi Pico will automatically disconnect from your computer and reconnect. Now your RPi Pico is flashed with Micropython and ready to go.
 
 ## Putting everything together
-Start with connecting the Pico and the sensors to the breadboard then connect all the wires. (You can do this however you want but make sure you are connecting everything as it should) Here is a circuit diagram on how i did it: <br><img src="https://github.com/vvijk/Soil-Guardian-3000/blob/main/pictures/circut_soil3000.png" width="385px" align="left"><br>
-
+Start with connecting the Pico and the sensors to the breadboard then connect all the wires. (You can do this however you want but make sure you are connecting everything as it should) Here is a circuit diagram on how i did it: <img src="https://github.com/vvijk/Soil-Guardian-3000/blob/main/pictures/circut_soil3000.png" width="385px" align="left">
 
 ## The Code
 The project's code consists of four Python files. You can either use the ```git pull``` command to fetch the files or manually copy them from this directory and paste them into your IDE. Here is a brief overview of what each file contains:
