@@ -40,12 +40,12 @@ A Micro USB cable is used to provide power to the Raspberry Pi Pico and establis
 
 | Item | Cost (SEK) | Link (Not affiliated) |
 | ----------------------------- | ---------- | ------------------------------------------------------------------------------------------------------- |
-| Raspberry Pi Pico WH  | 109:- | [Link](https://www.electrokit.com/produkt/raspberry-pi-pico-wh/)  |
-| Breadboard  | 69:- | [Link](https://www.electrokit.com/produkt/kopplingsdack-840-anslutningar/)  |
-| DHT-11 | 49:- | [Link](https://www.electrokit.com/produkt/digital-temperatur-och-fuktsensor-dht11/)  |
-| Capcitive Soil Moisture Sensor | 68:-  | [Link](https://www.amazon.se/dp/B07HJ6N1S4?psc=1&ref=ppx_yo2ov_dt_b_product_details)  |
-| Jumper wires | 29:-  | [Link](https://www.electrokit.com/produkt/labbsladd-20-pin-15cm-hane-hane/)  |
-| Micro USB cable | 120:- | [Link](https://www.kjell.com/se/produkter/kablar-kontakter/usb-kablar/micro-usb-kabel-1-m-p68687)  |
+| Raspberry Pi Pico WH  | 109:- | [ElectroKit](https://www.electrokit.com/produkt/raspberry-pi-pico-wh/)  |
+| Breadboard  | 69:- | [ElectroKit](https://www.electrokit.com/produkt/kopplingsdack-840-anslutningar/)  |
+| DHT-11 | 49:- | [ElectroKit](https://www.electrokit.com/produkt/digital-temperatur-och-fuktsensor-dht11/)  |
+| Capcitive Soil Moisture Sensor | 68:-  | [Amazon](https://www.amazon.se/dp/B07HJ6N1S4?psc=1&ref=ppx_yo2ov_dt_b_product_details)  |
+| Jumper wires | 29:-  | [ElectroKit](https://www.electrokit.com/produkt/labbsladd-20-pin-15cm-hane-hane/)  |
+| Micro USB cable | 120:- | [Kjell&Co](https://www.kjell.com/se/produkter/kablar-kontakter/usb-kablar/micro-usb-kabel-1-m-p68687)  |
 
 ***
 ## Computer setup
