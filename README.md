@@ -18,10 +18,9 @@ This can further be analyzed to see correlations between the parameters and the 
 For this project you need:
 
 #### Raspberry Pi Pico WH
-[Link](https://www.electrokit.com/produkt/raspberry-pi-pico-wh/) *109:- SEK* <br>
 The Raspberry Pi Pico WH is a microcontroller board based on the RP2040 chip. It has a dual-core ARM Cortex-M0+ processor. The Pico WH variant includes pre-soldered headers, making it convenient for a breadboard-based project like this. It can be programmed using MicroPython, C/C++, or other compatible programming languages. <img src="https://github.com/vvijk/Soil-Guardian-3000/blob/main/pictures/PICO-WH.jpg" width="385px">
 
-#### Bread board
+#### Breadboard
 A breadboard is a versatile prototyping tool used for building and testing electronic circuits. It consists of a grid of holes into which electronic components can be inserted and interconnected without the need for soldering. The breadboard is used as a platform to connect the Raspberry Pi Pico and the sensors using jumper wires.
 <img src="https://github.com/vvijk/Soil-Guardian-3000/blob/main/pictures/breadboard.jpg" width="385px">
 
@@ -39,10 +38,13 @@ Jumper wires are used to establish electrical connections between different comp
 #### Micro USB cable
 A Micro USB cable is used to provide power to the Raspberry Pi Pico and establish a data connection for programming.<br> <img src="https://github.com/vvijk/Soil-Guardian-3000/blob/main/pictures/microUSB.jpg" width="385px">
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Item | Cost (SEK) | Link (Not affiliated) |
+| Raspberry Pi Pico WH  | 109:- | [Link](https://www.electrokit.com/produkt/raspberry-pi-pico-wh/)  |
+| Breadboard  | 69:- | [Link](https://www.electrokit.com/produkt/kopplingsdack-840-anslutningar/)  |
+| DHT-11 | 49:- | [Link](https://www.electrokit.com/produkt/digital-temperatur-och-fuktsensor-dht11/)  |
+| Capcitive Soil Moisture Sensor | 68:-  | [Link](https://www.amazon.se/dp/B07HJ6N1S4?psc=1&ref=ppx_yo2ov_dt_b_product_details)  |
+| Jumper wires | 29:-  | [Link](https://www.electrokit.com/produkt/labbsladd-20-pin-15cm-hane-hane/)  |
+| Micro USB cable | 120:- | [Link](https://www.kjell.com/se/produkter/kablar-kontakter/usb-kablar/micro-usb-kabel-1-m-p68687)  |
 
 ***
 ## Computer setup
