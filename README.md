@@ -15,12 +15,13 @@ The purpose of the Soil Guardian 3000 soil moisture sensor IoT device is to meas
 For this project, you will need the following materials:
 
 #### Raspberry Pi Pico WH
-![Raspberry Pi Pico WH](https://github.com/vvijk/Soil-Guardian-3000/blob/main/pictures/PICO-WH.jpg =400x)
+![Raspberry Pi Pico WH](<img src="https://github.com/vvijk/Soil-Guardian-3000/blob/main/pictures/PICO-WH.jpg" alt="Breadboard" width="200px">)
 
 Description: The Raspberry Pi Pico WH is a microcontroller board based on the RP2040 chip. It has a dual-core ARM Cortex-M0+ processor. The Pico WH variant includes pre-soldered headers, making it convenient for a breadboard-based project like this. It can be programmed using MicroPython, C/C++, or other compatible programming languages.
 
 #### Breadboard
 ![Breadboard](https://github.com/vvijk/Soil-Guardian-3000/blob/main/pictures/breadboard.jpg)
+
 
 Description: A breadboard is a versatile prototyping tool used for building and testing electronic circuits. It consists of a grid of holes into which electronic components can be inserted and interconnected without the need for soldering. The breadboard is used as a platform to connect the Raspberry Pi Pico and the sensors using jumper wires.
 
