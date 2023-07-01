@@ -39,6 +39,7 @@ Jumper wires are used to establish electrical connections between different comp
 A Micro USB cable is used to provide power to the Raspberry Pi Pico and establish a data connection for programming.<br> <img src="https://github.com/vvijk/Soil-Guardian-3000/blob/main/pictures/microUSB.jpg" width="385px">
 
 | Item | Cost (SEK) | Link (Not affiliated) |
+| ----------------------------- | ---------- | ------------------------------------------------------------------------------------------------------- |
 | Raspberry Pi Pico WH  | 109:- | [Link](https://www.electrokit.com/produkt/raspberry-pi-pico-wh/)  |
 | Breadboard  | 69:- | [Link](https://www.electrokit.com/produkt/kopplingsdack-840-anslutningar/)  |
 | DHT-11 | 49:- | [Link](https://www.electrokit.com/produkt/digital-temperatur-och-fuktsensor-dht11/)  |
