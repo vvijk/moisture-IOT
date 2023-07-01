@@ -39,6 +39,12 @@ Jumper wires are used to establish electrical connections between different comp
 #### Micro USB cable
 A Micro USB cable is used to provide power to the Raspberry Pi Pico and establish a data connection for programming.<br> <img src="https://github.com/vvijk/Soil-Guardian-3000/blob/main/pictures/microUSB.jpg" width="385px">
 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+***
 ## Computer setup
 This tutorial is for Windows but is pretty similar on other operating systems. 
 * Step 1: Download and install Node js [HERE](https://nodejs.org/en)
