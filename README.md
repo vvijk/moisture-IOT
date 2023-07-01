@@ -36,13 +36,11 @@ Description: The DHT-11 sensor is a low-cost sensor that measures temperature an
 Description: The capacitive soil moisture sensor is a sensor specifically designed to measure the moisture content of the soil.
 
 #### Jumper Wires
-![Jumper Wires](https://github.com/vvijk/Soil-Guardian-3000/blob/main/pictures/wires.jpg)
-
+<img src="https://github.com/vvijk/Soil-Guardian-3000/blob/main/pictures/wires.jpg" width="300px">
 Description: Jumper wires are used to establish electrical connections between different components on a breadboard or between the breadboard and other devices.
 
 #### Micro USB Cable
-![Micro USB Cable](https://github.com/vvijk/Soil-Guardian-3000/blob/main/pictures/microUSB.jpg)
-
+<img src="https://github.com/vvijk/Soil-Guardian-3000/blob/main/pictures/microUSB.jpg" width="300px">
 Description: A Micro USB cable is used to provide power to the Raspberry Pi Pico and establish a data connection for programming.
 
 | Item | Cost (SEK) | Link (Not affiliated) |
