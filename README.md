@@ -123,9 +123,10 @@ Data is collected every 20 seconds, but you can easily change this interval in t
 ## Presenting the Data
 
 For presenting the data, three line graphs and a matching gauge are used. The temperature has two limits: 21°C and 26°C. The temperature range between these limits is shown in green, indicating an optimal temperature. If the temperature exceeds 26°C, it turns red to indicate that it's too hot, and if it goes below 21°C, it turns blue to indicate that it's too cold.
-
+<h3 align="center">Ok temperature</h3>
 ![Temperature Graph](https://github.com/vvijk/Soil-Guardian-3000/blob/main/pictures/temp.png)
 ---
+<h3 align="center">High temperature</h3>
 ![High Temperature Graph](https://github.com/vvijk/Soil-Guardian-3000/blob/main/pictures/high_temp.png)
 
 ---
