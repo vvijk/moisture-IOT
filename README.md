@@ -26,13 +26,12 @@ Description: The Raspberry Pi Pico WH is a microcontroller board based on the RP
 Description: A breadboard is a versatile prototyping tool used for building and testing electronic circuits. It consists of a grid of holes into which electronic components can be inserted and interconnected without the need for soldering. The breadboard is used as a platform to connect the Raspberry Pi Pico and the sensors using jumper wires.
 
 #### DHT-11 Sensor
-![DHT-11 Sensor](https://github.com/vvijk/Soil-Guardian-3000/blob/main/pictures/dht-11.jpg | width=300)
+![DHT-11 Sensor](https://github.com/vvijk/Soil-Guardian-3000/blob/main/pictures/dht-11.jpg)
 
 Description: The DHT-11 sensor is a low-cost sensor that measures temperature and humidity. The sensor operates within a specific temperature and humidity range and provides reasonable accuracy for most general-purpose applications.
 
 #### Capacitive Soil Moisture Sensor
-![Capacitive Soil Moisture Sensor](https://github.com/vvijk/Soil-Guardian-3000/blob/main/pictures/capsensor.jpg)
-
+<img src="https://github.com/vvijk/Soil-Guardian-3000/blob/main/pictures/dht-11.jpg" width="300px" >
 Description: The capacitive soil moisture sensor is a sensor specifically designed to measure the moisture content of the soil.
 
 #### Jumper Wires
