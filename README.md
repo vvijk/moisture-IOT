@@ -118,6 +118,18 @@ To transmit data to the Adafruit platform, Wi-Fi is used since the device will b
 
 Data is collected every 20 seconds, but you can easily change this interval in the `main.py` file by modifying the `RANDOMS_INTERVAL` variable.
 
+```python
+# Variables
+RANDOMS_INTERVAL = 20000                    # (milliseconds). How often data is sent to Adafruit
+last_random_sent_ticks = 0                  # (milliseconds). Used to keep track of the last time data was sent to Adafruit IO
+temp_sensor = dht.DHT11(machine.Pin(27))    # DHT11 Constructor 
+soil_sensor = ADC(machine.Pin(26))          # Capacitive Soil Moisture Sensor v1.2
+moist_wet=13347                             # Moisture sensor calibration.
+moist_dry=42986
+```
+
+*ADD MORE CODE*
+
 ---
 
 ## Presenting the Data
