@@ -8,7 +8,7 @@ Estimated time of the project is about 10 hrs
 
 ## Objective
 
-The purpose of the Soil Guardian 3000 soil moisture sensor IoT device is to measure and monitor soil moisture levels, humidity, and temperature in real-time. By placing the sensor within the soil, it continuously provides readings that indicate the moisture content. This information can be further analyzed to optimize the conditions for the plant and improve its health.
+The purpose of this IoT device is to measure and monitor soil moisture levels, humidity, and temperature in real-time. By placing the sensor within the soil, it continuously provides readings that indicate the moisture content. This information can be further analyzed to optimize the conditions for the plant and improve its health.
 
 ## List of Materials
 
