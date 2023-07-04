@@ -137,8 +137,9 @@ soil_sensor = ADC(machine.Pin(26))          # Capacitive Soil Moisture Sensor v1
 moist_wet=13347                             # Moisture sensor calibration.
 moist_dry=42986
 ```
+In the code block above, which is from the main.py file, you can see two variables: moist_wet and moist_dry. These variables are used for calibrating and fine-tuning the soil moisture sensor.
 
-*ADD MORE CODE*
+I recommend calibrating your "moisture-guardian" before using it. To do this, start by placing the soil sensor in a glass of water and read the data. Then, adjust the moist_wet variable so that when the sensor is in the water, the printed data is as close to 100 as possible. Next, dry off the sensor and adjust the moist_dry variable so that it's as close to 0 as possible.
 
 ---
 
@@ -160,4 +161,7 @@ For presenting the data, three line graphs and a matching gauge are used. The te
 
 ## Finalizing the Design
 
-[Include pictures with the flower]
+Here is the final design of the project.
+![final-design](https://github.com/vvijk/moisture-IOT/blob/main/pictures/sad-plant.jpg)
+
+
