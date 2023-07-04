@@ -51,6 +51,8 @@ Description: Jumper wires are used to establish electrical connections between d
 <img src="https://github.com/vvijk/Soil-Guardian-3000/blob/main/pictures/microUSB.jpg" width="300px">
 Description: A Micro USB cable is used to provide power to the Raspberry Pi Pico and establish a data connection for programming.
 
+---
+
 | Item | Cost (SEK) | Link (Not affiliated) |
 | ----------------------------- | ---------- | ------------------------------------------------------------------------------------------------------- |
 | Raspberry Pi Pico WH  | 109:- | [ElectroKit](https://www.electrokit.com/produkt/raspberry-pi-pico-wh/)  |
