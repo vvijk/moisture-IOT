@@ -1,10 +1,10 @@
 # moisture-IOT
 
-_By jb225ps_
+_By me VVIJK (jb225ps)_
 
-In this tutorial, you will learn how to create a soil moisture sensor IoT device using a Raspberry Pico W microcontroller, a soil moisture sensor, a DHT-11 sensor, a breadboard, MicroPython, and some jumper wires. By the end of this tutorial, you'll have a functioning device that can measure soil moisture levels and send the data to a remote server for analysis and monitoring.
+In this tutorial, you will learn how to create a soil moisture sensor IoT device using a _Raspberry Pico W_ microcontroller, a _soil moisture sensor_, a _DHT-11 sensor_, a _breadboard_, _MicroPython_, and some _jumper wires_. By the end of this tutorial, you'll have a functioning device that can measure soil moisture levels and send the data to a remote server for analysis and monitoring.
 
-Estimated time of the project is about 10 hrs
+Estimated time of the project is about 5 hrs _(depending on your level of knowledge ofc)_
 
 ## Objective
 
@@ -27,10 +27,8 @@ Description: The Raspberry Pi Pico WH is a microcontroller board based on the RP
 * CYW43439 wireless chip
 * IEEE 802.11 b/g/n wireless LAN
 
-
 #### Breadboard
 ![Breadboard](https://github.com/vvijk/Soil-Guardian-3000/blob/main/pictures/breadboard.jpg)
-
 
 Description: A breadboard is a versatile prototyping tool used for building and testing electronic circuits. It consists of a grid of holes into which electronic components can be inserted and interconnected without the need for soldering. The breadboard is used as a platform to connect the Raspberry Pi Pico and the sensors using jumper wires.
 
