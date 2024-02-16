@@ -2,6 +2,8 @@
 
 _By me VVIJK (jb225ps)_
 
+_1DT305 - Tillämpad Internet of Things, Introduktion - 7,5 hp_
+-
 In this tutorial, you will learn how to create a soil moisture sensor IoT device using a _Raspberry Pico W_ microcontroller, a _soil moisture sensor_, a _DHT-11 sensor_, a _breadboard_, _MicroPython_, and some _jumper wires_. By the end of this tutorial, you'll have a functioning device that can measure soil moisture levels and send the data to a remote server for analysis and monitoring.
 
 Estimated time of the project is about 5 hrs _(depending on your level of knowledge ofc)_
